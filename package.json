@@ -1,0 +1,29 @@
+{
+  "name": "all-color-converter",
+  "version": "1.0.0",
+  "description": "A versatile color converter package that supports conversions between RGB, Hex, and HSL color formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masum Billah",
+  "license": "MIT",
+  "keywords": [
+    "color",
+    "converter",
+    "rgb-to-hex",
+    "hex-to-rgb",
+    "rgb-to-hsl",
+    "hsl-to-rgb",
+    "color-converter",
+    "color-utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masumsoftdev/all-color-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/masumsoftdev/all-color-converter/issues"
+  },
+  "homepage": "https://github.com/masumsoftdev/all-color-converter#readme"
+}
